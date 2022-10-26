@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Remote-Sensing.iml" filepath="$PROJECT_DIR$/Remote-Sensing.iml" />
       <module fileurl="file://$PROJECT_DIR$/remote-vue/remote-vue.iml" filepath="$PROJECT_DIR$/remote-vue/remote-vue.iml" />
     </modules>
   </component>
